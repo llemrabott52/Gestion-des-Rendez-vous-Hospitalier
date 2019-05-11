@@ -1,0 +1,19 @@
+{
+  "name": "gestio_des_rendez_vous",
+  "version": "1.0.0",
+  "description": "\"ce site sert à la gestion des rendez vous des patients d'un hospital\"",
+  "main": "index.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llemrabott52/Gestion-des-Rendez-vous-Hospitalier.git"
+  },
+  "author": "Master_pyhton_group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llemrabott52/Gestion-des-Rendez-vous-Hospitalier/issues"
+  },
+  "homepage": "https://github.com/llemrabott52/Gestion-des-Rendez-vous-Hospitalier#readme"
+}
