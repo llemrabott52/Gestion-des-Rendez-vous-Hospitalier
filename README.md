@@ -4,14 +4,14 @@ cete repository contient les fichers de projet: Gestion des Rendez-vous des pati
 
 #Project Dependencies
 <br>
-*clone repositorie
+1-clone repositorie
 
-*install pip or upgrade your pip vesion : pip install --upgrade pip
+2-install pip or upgrade your pip vesion : pip install --upgrade pip
 
--Install Python3.6 or more (include tkinter)
+3-Install Python3.6 or more (include tkinter)
 
--Install Pillow (Python Imaging Library) : $python -m pip install Pillow
+4-Install Pillow (Python Imaging Library) : $python -m pip install Pillow
 
--Install PIL Module : $sudo pip install pil
+5-Install PIL Module : $sudo pip install pil
 
--run project : python index.py
+6-run project : python index.py
